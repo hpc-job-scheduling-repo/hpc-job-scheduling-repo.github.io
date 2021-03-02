@@ -1,1 +1,9 @@
-theme: jekyll-theme-cayman
+title: HJSR
+fulltitle: HPC Job Scheduling Repo
+description: Tools and Stuff around HPC Job Scheduling
+theme: jekyll-theme-slate
+include: 
+  - '_tools'
+  - '_about'
+  - '_conferences'
+  - '_workloads'

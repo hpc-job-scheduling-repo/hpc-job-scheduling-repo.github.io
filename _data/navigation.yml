@@ -1,0 +1,32 @@
+# Belongs at: /_data/navigation.yml
+- title: --Home--
+  url: /
+- title: --Conferences--
+  url: /conferences/
+- title: --Workloads--
+  url: /workloads/
+- title: --Tools--
+  url: /tools/
+  sublinks:
+    - title: ++Walltime prediction++
+      url: /tools/walltime_prediction.html
+    - title: ++Misc++
+      url: /tools/misc.html
+- title: --About--
+  url: /about/
+#  sublinks:
+#    - title: ++Me++
+#     url: /about/me.html
+#    - title: ++Contact++
+#      url: /about/contact.html
+#- title: --markdown--
+#  url: /markup.html
+#- title: Group of Things
+#  url: /group.html
+#  sublinks:
+#    - title: item 1
+#      url: /group/si1
+#    - title: item 2
+#      url: /group/si2
+#    - title: item 3
+#      url: /group/si3
